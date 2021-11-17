@@ -1,0 +1,54 @@
+/*body {*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    background-color: white;*/
+/*    !*display: flex;*!*/
+/*    !*flex-direction: column;*!*/
+/*}*/
+
+/*.block {*/
+/*    !*display: flex;*!*/
+/*    flex: 1;*/
+/*}*/
+
+/*.block__header,*/
+/*.block__footer,*/
+/*.block__hero {*/
+/*    background-color: #1f2937;*/
+/*}*/
+
+/*.block__header--logo {*/
+/*    font-size: 24px;*/
+/*    color: #f9faf8;*/
+/*}*/
+
+/*.block__hero h1 {*/
+/*    font-size: 48px;*/
+/*    color: #f9faf8;*/
+/*    font-weight: bolder;*/
+/*}*/
+
+/*.block__hero p {*/
+/*    font-size: 18px;*/
+/*    color: #E5E7EB;*/
+/*}*/
+
+/*.block__hero img {*/
+
+/*}*/
+
+/*.illustration {*/
+
+/*}*/
+
+/*.illustration img {*/
+/*    max-width: 200px;*/
+/*}*/
+
+/*.quotes {*/
+
+/*}*/
+
+/*.call_to_action {*/
+
+/*}*/
