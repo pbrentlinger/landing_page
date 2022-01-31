@@ -76,3 +76,24 @@ ul{
     border: none;
     margin-top: 5px;
 }
+
+.information h2{
+    text-align: center;
+    margin: 50px 0;
+}
+
+.information .card{
+    text-align: center;
+}
+
+.information .card p{
+    margin: auto;
+    color: #b9bcc0;
+    width: 85%;
+}
+
+.information .card img{
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+}
