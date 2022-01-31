@@ -1,0 +1,99 @@
+
+body {
+    background-color: white;
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    padding: 0;
+    margin: 0;
+}
+
+.block {
+    display: flex;
+    flex: 1 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 12.5%;
+}
+
+.header,
+.footer,
+.hero {
+    background-color: #1f2937;
+}
+
+.footer{
+    flex-shrink: 0;
+}
+
+/*header blocks*/
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.header ul{
+    color: #f9faf8;
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    margin-left: auto;
+}
+
+/*footer blocks*/
+.footer{
+
+}
+
+/*main content blocks*/
+
+.main{
+    flex-direction: column;
+    padding: 0;
+}
+
+/*HERO block*/
+
+.hero{
+    /*padding: 0 12.5%*/
+}
+
+.hero div{
+    padding-bottom: 100px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: bolder;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero_image {
+    width: 66%;
+    /*background-image: url("TheOdinProject/images/image_placeholder.jpeg");*/
+    background-size: cover;
+}
+
+
+/*Infor & Illustrations*/
+
+.information {
+
+}
+
+.illustration img {
+    max-width: 200px;
+}
+
+.quotes {
+
+}
+
+.call_to_action {
+
+}
